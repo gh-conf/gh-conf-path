@@ -1,0 +1,30 @@
+{
+  "name": "@gh-conf/gh-conf-path",
+  "version": "1.0.0",
+  "description": "Builds & Formats input path",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gh-conf/gh-conf-path.git"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  },
+  "keywords": [
+    "path",
+    "gh-conf",
+    "github-path",
+    "github-config",
+    "github-config-path"
+  ],
+  "author": "Arshad Kazmi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gh-conf/gh-conf-path/issues"
+  },
+  "homepage": "https://github.com/gh-conf/gh-conf-path#readme"
+}

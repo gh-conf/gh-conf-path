@@ -1,11 +1,15 @@
 {
   "name": "@gh-conf/gh-conf-path",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Builds & Formats input path",
   "main": "index.js",
   "scripts": {
     "test": "node_modules/mocha/bin/mocha tests/test.js"
   },
+  "files": [
+    "index.js",
+    "add-slash.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/gh-conf/gh-conf-path.git"
